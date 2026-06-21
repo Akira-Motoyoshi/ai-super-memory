@@ -1,0 +1,10 @@
+.env
+*.key
+*.pem
+secrets/
+raw_logs/
+private/
+tokens/
+api_keys/
+*.log
+.DS_Store
