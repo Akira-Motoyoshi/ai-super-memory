@@ -14,6 +14,7 @@
 | 記憶カード | [memory_cards/research.md](memory_cards/research.md) | 研究テーマや大学課題の整理 | 中 |
 | 記憶カード | [memory_cards/github-pages.md](memory_cards/github-pages.md) | GitHub Pages公開・不具合対応 | 高 |
 | 記憶カード | [memory_cards/codex.md](memory_cards/codex.md) | Codexの使い方と編集ルール | 高 |
+| 記憶カード | [memory_cards/company-mode.md](memory_cards/company-mode.md) | 会社・仕事・就活文脈での応答方針 | 高 |
 | 記憶カード | [memory_cards/gis-osm.md](memory_cards/gis-osm.md) | GIS、OSM、Re:Earth、YouthMappers | 中 |
 | 記憶カード | [memory_cards/writing-style.md](memory_cards/writing-style.md) | 文章作成、面接回答の好み | 高 |
 | プロジェクト | [projects/github-pages/summary.md](projects/github-pages/summary.md) | GitHub Pagesプロジェクトの目的と課題 | 高 |
