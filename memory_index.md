@@ -4,6 +4,7 @@
 
 | 分類 | ファイル | 内容 | 更新頻度 |
 |---|---|---|---|
+| Codex指示 | [AGENTS.md](AGENTS.md) | 作業開始時の自動参照・編集・終了ルール | 高 |
 | 基本情報 | [profile.md](profile.md) | 学業、研究、スキル、就活の軸などの抽象化した自己情報 | 必要時 |
 | 現在の文脈 | [current_context.md](current_context.md) | 進行中の目標とプロジェクト | 高 |
 | 全体図 | [mindmaps/main-memory.md](mindmaps/main-memory.md) | AI Super Memory全体のマインドマップ | 中 |
